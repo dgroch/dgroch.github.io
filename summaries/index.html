@@ -1,0 +1,47 @@
+---
+layout: default
+title: Summaries
+subtitle: Summaries of books and articles I've read
+description: When I read a memorable or impactful book, I always take notes. Now I'm sharing them.
+featured_image: /images/demo/demo-portrait.jpg
+---
+
+<section class="intro">
+
+	<div class="wrap">
+
+		<h1>{{ page.title }}</h1>
+		<p>{{ page.subtitle }}</p>
+
+	</div>
+
+</section>
+
+<section class="portfolio">
+
+	<div class="wrap">
+
+		{% for summary in site.summaries reversed %}
+
+		<div class="portfolio-item">
+
+			<a class="portfolio-item__link" href="{{ summary.url }}">
+
+				<div class="portfolio-item__image" style="background-image: url({{ summary.featured_image  }});"></div>
+
+				<div class="portfolio-item__content">
+					<div class="portfolio-item__info">
+						<h2 class="portfolio-item__title">{{ summary.title }}</h2>
+						<p class="portfolio-item__subtitle">{{ summary.subtitle }}</p>
+					</div>
+				</div>
+
+			</a>
+
+		</div>
+
+		{% endfor %}
+
+	</div>
+
+</section>
