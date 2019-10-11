@@ -10,6 +10,9 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
+  summaries:
+    output: true
+    permalink: /summaries/:slug
 
 defaults:
   -
@@ -35,7 +38,12 @@ defaults:
       type: "projects"
     values:
       layout: "project"
-
+  -
+    scope:
+      path: ""
+      type: "summaries"
+    values:
+      layout: "project"
 markdown: kramdown
 
 kramdown:
