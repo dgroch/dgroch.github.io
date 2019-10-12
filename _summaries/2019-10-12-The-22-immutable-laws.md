@@ -2,10 +2,10 @@
 title: 'The 22 Immutable Laws of Marketing'
 subtitle: 'by Al Ries and Jack Troute'
 date: 2019-10-12 09:00:00
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/summaries/22-immutable-laws-of-marketing.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/summaries/22-immutable-laws-of-marketing.jpg)
 
 ## Introduction
 
@@ -39,11 +39,11 @@ Prospects are on the defensive when it comes to brands; forget brand, think cate
 
 When you are first in a new category, promote the category not the brand.
 
-## 3. The Law of the Mind
+## 3. The Law of Mind
 
 > "It's better to be first in the mind than first in the marketplace."
 
-The *Law of the Mind* modifies *The Law of Leadership*.
+The *Law of Mind* modifies *The Law of Leadership*.
 
 Being first in the mind is everything in marketing. Being first to market is important only to the extent it allows you to get in the mind first.
 
