@@ -103,7 +103,27 @@ The essence of marketing is narrowing the focus. YOU become stronger when you re
 
 ## 6. The Law of Exclusivity
 
+> "Two companies cannot own the same word in the prospect's mind"
+
+Remember, you can't change prospect's minds once they are made up. If a competitor already owns a word in the prospect's mind don't challenge them, choose a different word.
+
 ## 7. The Law of the Ladder
+
+> "The strategy to use depends on which run you occupy on the ladder"
+
+Strategies do exist for No. 2 and No. 3 brands.
+
+In each category there is a product ladder in the prospect's mind. On each rung is a brand name.
+
+For example, Avis excelled when it admitted it's role as No. 2 in car rentals. Avis famoulsy ran the campaign tagline "*Avis is only No. 2 in rent-a-cars. So why go with us? We try harder"*
+
+The mind is selective. Prospects use their ladders in deciding which information to accept and which information to reject. In general, a mind only admits new information which is consistent with existing beliefs.
+
+How many rungs on a category ladder? It depends on the product. If the product is used daily there tends to be many rungs (word opportunities); however, products which are purchased infrequently are low-interest and are likely to have fewer rungs.
+
+A relationship exists between your rung on the ladder and market share. Each next rung on the ladder typically has half the market share of the rung preceeeding it.
+
+What's the maximum number of rungs on a ladder? There appears to be a rule of seven in the prospect's mind.
 
 ## 8. The Law of Duality
 
