@@ -55,6 +55,25 @@ The reason you have to blast instead of worm is that people rarely, if ever, cha
 
 ## 4. The Law of Perception
 
+> "Marketing is not a battle of products, it's a battle of perceptions."
+
+There are no objective facts.
+
+There are no best products.
+
+Perception is reality, everything else is an illusion.
+
+All the exists in the world of marketing are perceptions in the mind of prospects.
+
+Marketing is the manipulation of those perceptions to influence the timing and composition of demand.
+
+A perception that exists in the mind is often interpreted as a **universal truth**. People are seldom, if ever, wrong. At least in their own minds.
+
+For example, Honda is perceived in America to be a manufacturer of reliable (Japanese) cars. In Japan, however, Honda is perceived to be a successful maker of motorcycles; the company is a distant third to Toyata and Nissan when it comes to car sales.
+
+The **"everybody knows"** principle makes the battle even more difficult; prospects frequently make buying decisions baesd on second-hand perceptions.
+
+
 ## 5. The Law of Focus
 
 ## 6. The Law of Exclusivity
