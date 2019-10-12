@@ -2,10 +2,10 @@
 title: 'The 22 Immutable Laws of Marketing'
 subtitle: 'by Al Ries and Jack Trout'
 date: 2019-10-12 09:00:00
-featured_image: '/images/summaries/_22-immutable-laws.jpg'
+featured_image: '/images/summaries/22-immutable-laws.jpg'
 ---
 
-![](/images/summaries/_22-immutable-laws.jpg)
+![](/images/summaries/22-immutable-laws.jpg)
 
 ## Introduction
 
@@ -214,11 +214,13 @@ Line extension involves taking the name of a successful product and applying it 
 
 When a brand possesses the No. 1 position in a category, the name is frequently used as a substitute for the category. Take Kraft and it's *Philadelphia* brand of cream cheese. It's not uncommon to hear someone say, "*can you pass the Philly please?*".
 
-*Less is more*. If you want to be successful in today's over- communicated and saturated market, you have to narrow the focus in order to build a position in the prospect's mind.
+**Less is more**. If you want to be successful in today's over- communicated and saturated market, you have to narrow the focus in order to build a position in the prospect's mind.
 
-When you try to be all things to all people, you inevitably end up in trouble. "I'd rather be strong somewhere", said one manager, "than weak everywhere."
+When you try to be all things to all people, you inevitably end up in trouble. "*I'd rather be strong somewhere*", said one manager, "*than weak everywhere.*"
 
-Military strategist Carl von Clausewitz predicted this line of thinking in the 18th Century. In **Principles of War**, Clausewitz advised "*We must select for our attack one point of the enemy's position and attack it with great superiority, leaving the rest of his army in uncertainty but keeping it occupied... Even though we are strong, we should still direct our main attack against one point only. In that way we shall gain more strength at this point. For to surround an enemy completely is possible only in rare cases and requires tremendous physical or moral superiority*"
+Military strategist Carl von Clausewitz predicted this line of thinking in the 18th Century. In **Principles of War**, Clausewitz advised:
+
+"*We must select for our attack one point of the enemy's position and attack it with great superiority, leaving the rest of his army in uncertainty but keeping it occupied... Even though we are strong, we should still direct our main attack against one point only. In that way we shall gain more strength at this point. For to surround an enemy completely is possible only in rare cases and requires tremendous physical or moral superiority*"
 
 
 ## 13. The Law of Sacrifice
