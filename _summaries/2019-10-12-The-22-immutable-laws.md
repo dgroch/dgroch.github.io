@@ -5,8 +5,6 @@ date: 2019-10-12 09:00:00
 featured_image: '/images/summaries/22-immutable-laws.jpg'
 ---
 
-![](/images/summaries/22-immutable-laws.jpg)
-
 ## Introduction
 
 Al Ries and Jack Trout, two successful marketing strategists, call upon over forty years of marketing expertise to identify the definitive rules that govern the world of marketing.

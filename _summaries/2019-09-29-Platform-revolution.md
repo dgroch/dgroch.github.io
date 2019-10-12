@@ -2,10 +2,8 @@
 title: 'Platform Revolution: How Networked Markets are Transforming the Economy'
 subtitle: 'by Geoffrey Parker, Marshall W Van Alstyne and Sangeet Paul Choudry'
 date: 2019-10-12 09:00:00
-featured_image: '/images/summaries/_latform-revolution.jpg'
+featured_image: '/images/summaries/platform-revolution.jpg'
 ---
-
-![](/images/summaries/platform-revolution.jpg)
 
 ## Coming Soon
 
