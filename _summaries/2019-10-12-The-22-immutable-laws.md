@@ -2,10 +2,10 @@
 title: 'The 22 Immutable Laws of Marketing'
 subtitle: 'by Al Ries and Jack Troute'
 date: 2019-10-12 09:00:00
-featured_image: '/images/summaries/22-immutable-laws-of-marketing.jpg'
+featured_image: '/images/demo/tile.jpg'
 ---
 
-![](/images/summaries/22-immutable-laws-of-marketing.jpg)
+![](/images/demo/tile.jpg)
 
 ## Introduction
 
