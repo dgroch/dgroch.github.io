@@ -200,11 +200,25 @@ In marketing, long-term effects are often exactly opposite to short-term effects
 
 For example, coupons and discounting provide a short-term spike in sales but over the long-term prospects are taught to hold out for lower prices. "*Line extension*" (the topic of `Law #12`) is another example of divergence between short-term and long-term consequences. In the short-term, line extensions may cause a spike in total sales. But over time the equity of the extended brand is diluted and decline sets in.
 
-Investor Ray Dalio refers to these as the *first order* and *second order* consequences of decisions. The first order consequence of exercise is pain/discomfort (bad) and the second order consequence is improved health and reduced bodyweight (good).
+Investor Ray Dalio refers to these as the **first order** and **second order** consequences of decisions. The first order consequence of exercise is pain/discomfort (bad) and the second order consequence is improved health and reduced bodyweight (good).
 
 Research by beauty brand Dove suggests powerful 60% / 40% allocation between master brand building and product promotion is a good strategy for building brand dominance in a category. 
 
 ## 12. The Law of Line Extension
+
+> "There's an irresistible pressure to extend the equity of the brand."
+
+By far the most frequently transgressed law of marketing.
+
+Line extension involves taking the name of a successful product and applying it to a new and different product you plan to introduce. It is done to transfer equity from the successful brand to the unproven new brand, but in the long run it's a parasitic strategy that kills the host.
+
+When you try to be all things to all people, you inevitably end up in trouble. "I'd rather be strong somewhere", said one manager, "than weak everywhere."
+
+Military strategist Claude von ... agrees. In his 1885 book **Something** he advises "**"
+
+When a brand possesses the No. 1 position in a category, the name is frequently used as a substitute for the category. Take Kraft and it's *Philadelphia* brand of cream cheese. It's not uncommon to hear someone say, "*can you pass the Philly please?*".
+
+*Less is more*. If you want to be successful in today's over- communicated and saturated market, you have to narrow the focus in order to build a position in the prospect's mind.
 
 ## 13. The Law of Sacrifice
 
