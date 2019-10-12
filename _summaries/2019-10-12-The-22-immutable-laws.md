@@ -29,6 +29,13 @@ People believe the first product to mind is superior.
 
 > "If you can't be first in a category, set up a new category yo ucan be first in."
 
+If you didn't get into the prospects mind first, don't give up hope.
+
+When you launch a new product, the first question to ask yourself is not "How is this new product better than the competition?" but "First what?". In other words, what category is the new product first in?
+
+For example, Charles Schwab didn't open a better brokerage firm. He opened the first *discount broker*.
+
+Prospects are on the defensive when it comes to brands; forget brand, think categories. Prospects have an open mind when it comes to categories. Everyone is interested in what's new, few are interested in what's better.
 
 ## 3. THe Law of the Mind
 
