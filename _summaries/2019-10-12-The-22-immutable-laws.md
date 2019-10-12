@@ -212,13 +212,14 @@ By far the most frequently transgressed law of marketing.
 
 Line extension involves taking the name of a successful product and applying it to a new and different product you plan to introduce. It is done to transfer equity from the successful brand to the unproven new brand, but in the long run it's a parasitic strategy that kills the host.
 
-When you try to be all things to all people, you inevitably end up in trouble. "I'd rather be strong somewhere", said one manager, "than weak everywhere."
-
-Military strategist Claude von ... agrees. In his 1885 book **Something** he advises "**"
-
 When a brand possesses the No. 1 position in a category, the name is frequently used as a substitute for the category. Take Kraft and it's *Philadelphia* brand of cream cheese. It's not uncommon to hear someone say, "*can you pass the Philly please?*".
 
 *Less is more*. If you want to be successful in today's over- communicated and saturated market, you have to narrow the focus in order to build a position in the prospect's mind.
+
+When you try to be all things to all people, you inevitably end up in trouble. "I'd rather be strong somewhere", said one manager, "than weak everywhere."
+
+Military strategist Carl von Clausewitz predicted this line of thinking in the 18th Century. In **Principles of War**, Clausewitz advised "*We must select for our attack one point of the enemy's position and attack it with great superiority, leaving the rest of his army in uncertainty but keeping it occupied... Even though we are strong, we should still direct our main attack against one point only. In that way we shall gain more strength at this point. For to surround an enemy completely is possible only in rare cases and requires tremendous physical or moral superiority*"
+
 
 ## 13. The Law of Sacrifice
 
