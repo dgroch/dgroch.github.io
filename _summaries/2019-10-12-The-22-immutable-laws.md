@@ -1,6 +1,6 @@
 ---
 title: 'The 22 Immutable Laws of Marketing'
-subtitle: 'by Al Ries and Jack Troute'
+subtitle: 'by Al Ries and Jack Trout'
 date: 2019-10-12 09:00:00
 featured_image: '/images/summaries/22-immutable-laws.jpg'
 ---
@@ -127,7 +127,38 @@ What's the maximum number of rungs on a ladder? There appears to be a rule of se
 
 ## 8. The Law of Duality
 
+> "In the long run, every market becomes a two-horse race."
+
+A category typically becomes a titanic struggle between two major players—usually the old reliable brand and the challenger.
+
+Successful marketers focus on holding one of the top two rungs on the ladder. Jack Welch, the celebrated CEO of GE, famously required GE to exit every business in which they were not ranked 1 or 2. Poorly ranked businesses were fixed, closed or sold.
+
+In a new and growing market, the volume of sales going to companies ranked 3 and 4 can look attractive. However, over time as customers become more educate they gravitate toward the leading band, believing that if it's the leading brand it must be better.
+
+Remember, marketing is a battle of perceptions not products. It's this kind of thinking that keeps two brands on top: "They must be the best, they're the leaders."
+
 ## 9. THe Law of Opposite
+
+> "If you're shooting for second place, your strategy is determined by the leaders."
+
+In strength there is weakness. Wherever the learing band is strong, there's an opportunity for a would-be No. 2 brand to turn the tables.
+
+The strategy for challenger (No. 2) brands must determine the essence of the leading brand and present the prospect with the opposite.
+
+Don't try to be better, be different.
+
+Positioning yourself against the leader, you take business aways from all other alternatives to No. 1
+
+For example, consider how the *Pepsi Generation* took on *the real thing*, Coca-Cola.
+
+Hone on a weakness the leading brand will quickly acknowledge (because it is their core strength), then twist the knife. For example, challenger brand Scope attacked the "medicine breath" perception of leading brand Listerine. It's campaign tagline was "*Scope, the good tasting mouthwash that kills germs*."
+
+Marketing is often a battle for legitimacy. The first brand to capture a concept can cast competitor's as illegitimate.
+
+Other notable campaign taglines:
+* "You've tasted the German beer that's most popular in America. Now taste the German beer that's most popular in Germany." (Becks vs Heinekin)
+* "For the millions who should not take Aspirin" (Tylenol vs Aspirin)
+* "Have it your way" (Burger King vs McDonalds)
 
 ## 10. The Law of Division
 
