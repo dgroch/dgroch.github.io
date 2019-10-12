@@ -27,17 +27,31 @@ People believe the first product to mind is superior.
 
 ## 2. The Law of Category
 
-> "If you can't be first in a category, set up a new category yo ucan be first in."
+> "If you can't be first in a category, set up a new category you can be first in."
 
 If you didn't get into the prospects mind first, don't give up hope.
 
 When you launch a new product, the first question to ask yourself is not "How is this new product better than the competition?" but "First what?". In other words, what category is the new product first in?
 
-For example, Charles Schwab didn't open a better brokerage firm. He opened the first *discount broker*.
+For example, Charles Schwab didn't open a better brokerage firm. He opened the first **discount broker**.
 
 Prospects are on the defensive when it comes to brands; forget brand, think categories. Prospects have an open mind when it comes to categories. Everyone is interested in what's new, few are interested in what's better.
 
-## 3. THe Law of the Mind
+When you are first in a new category, promote the category not the brand.
+
+## 3. The Law of the Mind
+
+> "It's better to be first in the mind than first in the marketplace."
+
+The *Law of the Mind* modifies *The Law of Leadership*.
+
+Being first in the mind is everything in marketing. Being first to market is important only to the extent it allows you to get in the mind first.
+
+You can't change a mind once it is made up. The single most wasteful thing you can do in marketing is try to change a mind.
+
+You have to blast your way into a persons mind; you can't worm your way in then slowly build up a favourable impression.
+
+The reason you have to blast instead of worm is that people rarely, if ever, change their minds.
 
 ## 4. The Law of Perception
 
