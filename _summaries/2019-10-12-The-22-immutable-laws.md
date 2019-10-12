@@ -194,6 +194,16 @@ The way for a category leader to maintain it's dominance is to address each emer
 
 ## 11. The Law of Perspective
 
+> "Marketing effects take place over an extended period of time."
+
+In marketing, long-term effects are often exactly opposite to short-term effects.
+
+For example, coupons and discounting provide a short-term spike in sales but over the long-term prospects are taught to hold out for lower prices. "*Line extension*" (the topic of `Law #12`) is another example of divergence between short-term and long-term consequences. In the short-term, line extensions may cause a spike in total sales. But over time the equity of the extended brand is diluted and decline sets in.
+
+Investor Ray Dalio refers to these as the *first order* and *second order* consequences of decisions. The first order consequence of exercise is pain/discomfort (bad) and the second order consequence is improved health and reduced bodyweight (good).
+
+Research by beauty brand Dove suggests powerful 60% / 40% allocation between master brand building and product promotion is a good strategy for building brand dominance in a category. 
+
 ## 12. The Law of Line Extension
 
 ## 13. The Law of Sacrifice
