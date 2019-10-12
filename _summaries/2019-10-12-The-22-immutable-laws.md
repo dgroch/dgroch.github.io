@@ -15,13 +15,20 @@ Al Ries and Jack Trout, two successful marketing strategists, call upon over for
 
 > "It's better to be first than it is to be better."
 
-* Marketing is a battle of perceptions, not a battle of products.
-* The basic issue in marketing is creating a category you can be first in.
-* It's much easier to get into the mind first than to try and convince someone you have a better product than the one that did get there first.
-* One reason the first brand tends to maintain leadership is the name becomes generic.
-* People believe the first product to mind is superior.
+Marketing is a battle of perceptions, not a battle of products.
+
+The basic issue in marketing is creating a category you can be first in.
+
+It's much easier to get into the mind first than to try and convince someone you have a better product than the one that did get there first.
+
+One reason the first brand tends to maintain leadership is the name becomes generic.
+
+People believe the first product to mind is superior.
 
 ## 2. The Law of Category
+
+> "If you can't be first in a category, set up a new category yo ucan be first in."
+
 
 ## 3. THe Law of the Mind
 
