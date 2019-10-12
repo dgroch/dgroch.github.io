@@ -7,91 +7,58 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ![](/images/demo/demo-landscape.jpg)
 
-## Book Review: The 22 Immutable Laws of Marketing
+## Introduction
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+Al Ries and Jack Trout, two successful marketing strategists, call upon over forty years of marketing expertise to identify the definitive rules that govern the world of marketing.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+## 1. The Law of Leadership
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+> "It's better to be first than it is to be better."
 
-You can create lists:
+* Marketing is a battle of perceptions, not a battle of products.
+* The basic issue in marketing is creating a category you can be first in.
+* It's much easier to get into the mind first than to try and convince someone you have a better product than the one that did get there first.
+* One reason the first brand tends to maintain leadership is the name becomes generic.
+* People believe the first product to mind is superior.
 
-* Simple bulleted lists
-* Like this one
-* Are cool
+## 2. The Law of Category
 
-And:
+## 3. THe Law of the Mind
 
-1. Numbered lists
-2. Like this other one
-3. Are great too
+## 4. The Law of Perception
 
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
+## 5. The Law of Focus
 
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
+## 6. The Law of Exclusivity
 
-The theme also supports markdown tables:
+## 7. The Law of the Ladder
 
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $39   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $39   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $39   |
+## 8. The Law of Duality
 
-You can throw in some horizontal rules too:
+## 9. THe Law of Opposite
 
----
+## 10. The Law of Division
 
-### Image galleries
+## 11. The Law of Perspective
 
-Here's a really neat custom feature we added – galleries:
+## 12. The Law of Line Extension
 
-<div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
+## 13. The Law of Sacrifice
 
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
+## 14. The Law of Attributes
 
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
-```
+## 15. The Law of Candor
 
-*See what we did there? Code and syntax highlighting is built-in too!*
+## 16. The Law of Singularity
 
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
+## 17. The Lwa of Unpredictability
 
----
+## 18. The Law of Success
 
-### Image carousels
+## 19. The Law of Failure
 
-Here's another gallery with only one column, which creates a carousel slide-show instead.
+## 20. The Law of Hype
 
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
+## 21. The Law of Acceleration
 
-<div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-### What about videos?
-
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
-
-<iframe src="https://player.vimeo.com/video/19536258?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
----
-
-## Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work. Why not put them to use on your new portfolio?
-
-<a href="https://jekyllthemes.io/theme/index-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+## 22. The Law of Resources
