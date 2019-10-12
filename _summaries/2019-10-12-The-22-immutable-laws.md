@@ -11,6 +11,8 @@ featured_image: '/images/summaries/22-immutable-laws.jpg'
 
 Al Ries and Jack Trout, two successful marketing strategists, call upon over forty years of marketing expertise to identify the definitive rules that govern the world of marketing.
 
+---
+
 ## 1. The Law of Leadership
 
 > "It's better to be first than it is to be better."
@@ -24,6 +26,8 @@ It's much easier to get into the mind first than to try and convince someone you
 One reason the first brand tends to maintain leadership is the name becomes generic.
 
 People believe the first product to mind is superior.
+
+---
 
 ## 2. The Law of Category
 
@@ -39,6 +43,8 @@ Prospects are on the defensive when it comes to brands; forget brand, think cate
 
 When you are first in a new category, promote the category not the brand.
 
+---
+
 ## 3. The Law of Mind
 
 > "It's better to be first in the mind than first in the marketplace."
@@ -52,6 +58,8 @@ You can't change a mind once it is made up. The single most wasteful thing you c
 You have to blast your way into a persons mind; you can't worm your way in then slowly build up a favourable impression.
 
 The reason you have to blast instead of worm is that people rarely, if ever, change their minds.
+
+---
 
 ## 4. The Law of Perception
 
@@ -73,6 +81,8 @@ For example, Honda is perceived in America to be a manufacturer of reliable (Jap
 
 The **"everybody knows"** principle makes the battle even more difficult; prospects frequently make buying decisions baesd on second-hand perceptions.
 
+---
+
 ## 5. The Law of Focus
 
 > "The most popwerful concept in marketing is owning a word in the prospect's mind."
@@ -92,7 +102,7 @@ It's always better to focus on one word or benefit rather than two, three or fou
 If you strongly establish one benefit, the prospect is likely to assign you related benefits.
 
 Words can be:
-* benefit realted
+* benefit related
 * service related
 * audience related
 * sales related
@@ -106,6 +116,8 @@ The essence of marketing is narrowing the focus. YOU become stronger when you re
 > "Two companies cannot own the same word in the prospect's mind"
 
 Remember, you can't change prospect's minds once they are made up. If a competitor already owns a word in the prospect's mind don't challenge them, choose a different word.
+
+---
 
 ## 7. The Law of the Ladder
 
@@ -125,6 +137,8 @@ A relationship exists between your rung on the ladder and market share. Each nex
 
 What's the maximum number of rungs on a ladder? There appears to be a rule of seven in the prospect's mind.
 
+---
+
 ## 8. The Law of Duality
 
 > "In the long run, every market becomes a two-horse race."
@@ -137,7 +151,9 @@ In a new and growing market, the volume of sales going to companies ranked 3 and
 
 Remember, marketing is a battle of perceptions not products. It's this kind of thinking that keeps two brands on top: "They must be the best, they're the leaders."
 
-## 9. THe Law of Opposite
+---
+
+## 9. The Law of Opposite
 
 > "If you're shooting for second place, your strategy is determined by the leaders."
 
@@ -155,10 +171,12 @@ Hone on a weakness the leading brand will quickly acknowledge (because it is the
 
 Marketing is often a battle for legitimacy. The first brand to capture a concept can cast competitor's as illegitimate.
 
-Other notable campaign taglines:
+#### Notable campaign taglines:
 * "You've tasted the German beer that's most popular in America. Now taste the German beer that's most popular in Germany." (Becks vs Heinekin)
 * "For the millions who should not take Aspirin" (Tylenol vs Aspirin)
 * "Have it your way" (Burger King vs McDonalds)
+
+---
 
 ## 10. The Law of Division
 
