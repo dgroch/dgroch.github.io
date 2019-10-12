@@ -73,8 +73,33 @@ For example, Honda is perceived in America to be a manufacturer of reliable (Jap
 
 The **"everybody knows"** principle makes the battle even more difficult; prospects frequently make buying decisions baesd on second-hand perceptions.
 
-
 ## 5. The Law of Focus
+
+> "The most popwerful concept in marketing is owning a word in the prospect's mind."
+
+Simple words are best, taken right out of the dictionary.
+
+It's the ultimate marketing sacrifice.
+
+For example, Federal Express was able to put the word *overnight* into the minds of its prospects because it sacrified its product line and focused on overnight package delivery only.
+
+The leader owns the word that represents the category. In the toothpaste category, for example, the company that owns be "fresh" or "white" is likely to be the leader.
+
+The most effective words are simple and benefit oriented.
+
+It's always better to focus on one word or benefit rather than two, three or four.
+
+If you strongly establish one benefit, the prospect is likely to assign you related benefits.
+
+Words can be:
+* benefit realted
+* service related
+* audience related
+* sales related
+
+You can't take someone else's word.
+
+The essence of marketing is narrowing the focus. YOU become stronger when you reduce the scope of your operations. You can't stand for something if you chase everything.
 
 ## 6. The Law of Exclusivity
 
