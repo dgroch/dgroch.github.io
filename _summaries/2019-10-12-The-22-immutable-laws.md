@@ -55,7 +55,7 @@ Being first in the mind is everything in marketing. Being first to market is imp
 
 You can't change a mind once it is made up. The single most wasteful thing you can do in marketing is try to change a mind.
 
-You have to blast your way into a persons mind; you can't worm your way in then slowly build up a favourable impression.
+You have to blast your way into a persons mind; you can't worm your way in then slowly build up a favorable impression.
 
 The reason you have to blast instead of worm is that people rarely, if ever, change their minds.
 
@@ -77,21 +77,21 @@ Marketing is the manipulation of those perceptions to influence the timing and c
 
 A perception that exists in the mind is often interpreted as a **universal truth**. People are seldom, if ever, wrong. At least in their own minds.
 
-For example, Honda is perceived in America to be a manufacturer of reliable (Japanese) cars. In Japan, however, Honda is perceived to be a successful maker of motorcycles; the company is a distant third to Toyata and Nissan when it comes to car sales.
+For example, Honda is perceived in America to be a manufacturer of reliable (Japanese) cars. In Japan, however, Honda is perceived to be a successful maker of motorcycles; the company is a distant third to Toyota and Nissan when it comes to car sales.
 
-The **"everybody knows"** principle makes the battle even more difficult; prospects frequently make buying decisions baesd on second-hand perceptions.
+The **"everybody knows"** principle makes the battle even more difficult; prospects frequently make buying decisions based on second-hand perceptions.
 
 ---
 
 ## 5. The Law of Focus
 
-> "The most popwerful concept in marketing is owning a word in the prospect's mind."
+> "The most powerful concept in marketing is owning a word in the prospect's mind."
 
 Simple words are best, taken right out of the dictionary.
 
 It's the ultimate marketing sacrifice.
 
-For example, Federal Express was able to put the word *overnight* into the minds of its prospects because it sacrified its product line and focused on overnight package delivery only.
+For example, Federal Express was able to put the word *overnight* into the minds of its prospects because it sacrificed its product line and focused on overnight package delivery only.
 
 The leader owns the word that represents the category. In the toothpaste category, for example, the company that owns be "fresh" or "white" is likely to be the leader.
 
@@ -107,7 +107,7 @@ Words can be:
 * audience related
 * sales related
 
-You can't take someone else's word.
+You can't take someone elses word.
 
 The essence of marketing is narrowing the focus. YOU become stronger when you reduce the scope of your operations. You can't stand for something if you chase everything.
 
@@ -127,13 +127,13 @@ Strategies do exist for No. 2 and No. 3 brands.
 
 In each category there is a product ladder in the prospect's mind. On each rung is a brand name.
 
-For example, Avis excelled when it admitted it's role as No. 2 in car rentals. Avis famoulsy ran the campaign tagline "*Avis is only No. 2 in rent-a-cars. So why go with us? We try harder"*
+For example, Avis excelled when it admitted it's role as No. 2 in car rentals. Avis famously ran the campaign tagline "*Avis is only No. 2 in rent-a-cars. So why go with us? We try harder"*
 
 The mind is selective. Prospects use their ladders in deciding which information to accept and which information to reject. In general, a mind only admits new information which is consistent with existing beliefs.
 
 How many rungs on a category ladder? It depends on the product. If the product is used daily there tends to be many rungs (word opportunities); however, products which are purchased infrequently are low-interest and are likely to have fewer rungs.
 
-A relationship exists between your rung on the ladder and market share. Each next rung on the ladder typically has half the market share of the rung preceeeding it.
+A relationship exists between your rung on the ladder and market share. Each next rung on the ladder typically has half the market share of the rung preceding it.
 
 What's the maximum number of rungs on a ladder? There appears to be a rule of seven in the prospect's mind.
 
@@ -157,7 +157,7 @@ Remember, marketing is a battle of perceptions not products. It's this kind of t
 
 > "If you're shooting for second place, your strategy is determined by the leaders."
 
-In strength there is weakness. Wherever the learing band is strong, there's an opportunity for a would-be No. 2 brand to turn the tables.
+In strength there is weakness. Wherever the learning band is strong, there's an opportunity for a would-be No. 2 brand to turn the tables.
 
 The strategy for challenger (No. 2) brands must determine the essence of the leading brand and present the prospect with the opposite.
 
@@ -171,14 +171,26 @@ Hone on a weakness the leading brand will quickly acknowledge (because it is the
 
 Marketing is often a battle for legitimacy. The first brand to capture a concept can cast competitor's as illegitimate.
 
+---
+
 #### Notable campaign taglines:
-* "You've tasted the German beer that's most popular in America. Now taste the German beer that's most popular in Germany." (Becks vs Heinekin)
+* "You've tasted the German beer that's most popular in America. Now taste the German beer that's most popular in Germany." (Becks vs Heineken)
 * "For the millions who should not take Aspirin" (Tylenol vs Aspirin)
-* "Have it your way" (Burger King vs McDonalds)
+* "Have it your way" (Burger King vs McDonald's)
 
 ---
 
 ## 10. The Law of Division
+
+> "Over time, a category will divide and become two or more categories."
+
+A category starts off as a single entity. Computers, for example. But over time, the category breaks up into other segments. Mainframes, minicomputers, desktop computers, laptops, iPad, etc.
+
+Each new category has a reason for existence, and it's No. 1 leading brand.
+
+"*Synergy*" is the antithesis of the Law of Division. Categories are dividing, not combining.
+
+The way for a category leader to maintain it's dominance is to address each emerging category with a new brand name. For example, General Motors grew through acquisition and maintained a decentralized management structure under Alfred Sloan. Each brand (eg. Chevrolet) occupied a distinct rung in the market.
 
 ## 11. The Law of Perspective
 
