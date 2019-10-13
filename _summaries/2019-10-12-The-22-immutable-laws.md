@@ -223,6 +223,19 @@ Military strategist Carl von Clausewitz predicted this line of thinking in the 1
 
 ## 13. The Law of Sacrifice
 
+> "You have to give up something in order to get something."
+
+If you want to be successful today, you should give something up (ie. get more focused). See also *Rules 5 and #12*.
+
+There are three things to sacrifice:
+1. product line (eg. Apple in 1990s when Steve Jobs returned)
+2. target market (eg. Pepsi ignoring everyone except teenagers)
+3. constant change (eg. Bunnings TV ads work and never change)
+
+A wider net might cash more fish... but it doesn't catch more customers. Marketing is a game of mental warfare and the only way to win is to own a word association in the mind of the customer.
+
+Remember, the target is not the market. Even though Pepsi's target was the teenager, the market was everybody. The 59-year-old guy who wants to think he's 29 will drink Pepsi.
+
 ## 14. The Law of Attributes
 
 ## 15. The Law of Candor
