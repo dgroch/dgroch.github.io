@@ -225,7 +225,7 @@ Military strategist Carl von Clausewitz predicted this line of thinking in the 1
 
 > "You have to give up something in order to get something."
 
-If you want to be successful today, you should give something up (ie. get more focused). See also *Rules 5 and #12*.
+If you want to be successful today, you should give something up (ie. get more focused). See also *Laws #5 and #12*.
 
 There are three things to sacrifice:
 1. product line (eg. Apple in 1990s when Steve Jobs returned)
@@ -237,6 +237,16 @@ A wider net might cash more fish... but it doesn't catch more customers. Marketi
 Remember, the target is not the market. Even though Pepsi's target was the teenager, the market was everybody. The 59-year-old guy who wants to think he's 29 will drink Pepsi.
 
 ## 14. The Law of Attributes
+
+> "For every attribute, there is an opposite, effective attribute"
+
+Remember, you can't own a position that your competitor already owns (refer to Law #6).
+
+If you need to move on to a lesser attribute, because the most valued attribute is already taken, your task is to dramatize the value of your chosen attribute and thus increase market share.
+
+You can't predict the size of a new attribute's market share, so never laugh. For example, "small" was an attribute that emerged in the "computers" category. Eventually small came to dominate, but then it was arguably overtaken by "mobile" (ie. portable).
+
+Another example is McDonald's vs Burger King. McDonald's owns the junior market (ie. kids). Burger King could position itself for adults and thus hang the "kiddieland" moniker on McDonald's (refer to *The Law of Opposite*). Maybe Burger King's tagline would be "*Grow up to the taste of a flame grilled Whopper*."
 
 ## 15. The Law of Candor
 
