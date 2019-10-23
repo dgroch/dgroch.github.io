@@ -53,7 +53,7 @@ Being first in the mind is everything in marketing. Being first to market is imp
 
 You can't change a mind once it is made up. The single most wasteful thing you can do in marketing is try to change a mind.
 
-You have to blast your way into a persons mind; you can't worm your way in then slowly build up a favorable impression.
+You have to blast your way into a persons mind; you can't worm your way in then slowly build up a favourable impression.
 
 The reason you have to blast instead of worm is that people rarely, if ever, change their minds.
 
@@ -105,7 +105,7 @@ Words can be:
 * audience related
 * sales related
 
-You can't take someone elses word.
+You can't take someone else's word.
 
 The essence of marketing is narrowing the focus. YOU become stronger when you reduce the scope of your operations. You can't stand for something if you chase everything.
 
@@ -161,7 +161,7 @@ The strategy for challenger (No. 2) brands must determine the essence of the lea
 
 Don't try to be better, be different.
 
-Positioning yourself against the leader, you take business aways from all other alternatives to No. 1
+Positioning yourself against the leader, you take business always from all other alternatives to No. 1
 
 For example, consider how the *Pepsi Generation* took on *the real thing*, Coca-Cola.
 
@@ -249,6 +249,21 @@ You can't predict the size of a new attribute's market share, so never laugh. Fo
 Another example is McDonald's vs Burger King. McDonald's owns the junior market (ie. kids). Burger King could position itself for adults and thus hang the "kiddieland" moniker on McDonald's (refer to *The Law of Opposite*). Maybe Burger King's tagline would be "*Grow up to the taste of a flame grilled Whopper*."
 
 ## 15. The Law of Candor
+
+> "When you admit a negative, the prospect gives you a positive."
+
+For example, "*The taste you hate twice a day*" (Listerine) setup the selling idea that it must kill a lot of germs (the prospect figured, if it tastes like disinfectant it must kill a lot of germs).
+
+Every negative statement you make about yourself is instantly accepted as truth. On the other hand, positive statements are looked at dubiously (at best).
+
+Marketing is often a search for the obvious. Since you can't change a mind once it's made up, your marketing efforts have to be devoted to using ideas and concepts already installed in the brain.
+
+Admitting a problem is something very few companies do; remember, don't be better be diffferent.
+
+Keep in mind two practical directions:
+1. The negative must be generally perceived as a negative; and
+2. Shift swiftly to the positive
+
 
 ## 16. The Law of Singularity
 
