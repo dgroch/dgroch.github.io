@@ -264,15 +264,15 @@ Keep in mind two practical directions:
 1. The negative must be generally perceived as a negative; and
 2. Shift swiftly to the positive
 
-
 ## 16. The Law of Singularity
 
 > "In each situation, only one move will produce substantial results."
 
+Trying harder is not the secret of marketing success. The only thing that works in marketing is the single, bold stroke.
 
-Trying harder is not the secret of marketing success.
+Successful generals study the battleground and look for that one bold stroke that is least expected by the enemy ("*the line of least expectation*")
 
-
+Most often there is only one place where your competitor is vulnerable; that place should be the focal point of all your marketing efforts.
 
 ## 17. The Lwa of Unpredictability
 
