@@ -289,7 +289,7 @@ Most often there is only one place where your competitor is vulnerable; that pla
 
 ## 17. The Law of Unpredictability
 
-> Unless you write your competitor's plans, you can't predict the future
+> "Unless you write your competitor's plans, you can't predict the future"
 
 No one can accurately predict the weather three days in advance, how can they predict a market three years in advance?
 
@@ -307,7 +307,7 @@ There's a difference between *predicting* the future and *taking a chance* on th
 
 ## 18. The Law of Success
 
-> Success often leads to arrogance, and arrogance to failure.
+> "Success often leads to arrogance, and arrogance to failure"
 
 When people become successful they become less objective. Often they substitute their own judgment for what the market wants.
 
@@ -319,7 +319,7 @@ Like kings, chief executives rarely get honest opinions from their ministers. On
 
 ## 19. The Law of Failure
 
-> Failure is to be expected and accepted
+> "Failure is to be expected and accepted"
 
 Recognize failure early and cut your losses. Companies that excel (compared to their peers) embrace inconvenient truths, deal with them and embrace change.
 
@@ -335,7 +335,7 @@ The solution? Champion people who take risks and embrace "a better way".
 
 ## 20. The Law of Hype
 
-> The situation is often the opposite of the way it appears in the press
+> "The situation is often the opposite of the way it appears in the press"
 
 When things are going well, the company doesn't need the hype. When you need the hype, usually it means you're in trouble.
 
@@ -349,4 +349,18 @@ Real revolutions arrive unannounced in the middle of the night and kind of sneak
 
 ## 21. The Law of Acceleration
 
+> "Successful programs are not built on fads, they're built on trends"
+
+A fad is a wave in the ocean, a trend is the tide. Like the tide, a trend is almost invisible but it's very powerful over the long-term.
+
+A fashion is a fade that repeats itself.
+
+Here's the paradox. When faced with a rapidly rising business, with all the characteristics of a fad, the best thing you could do is dampen the fad. By dampening the fad, you stretch it out and it becomes more like a trend.
+
+For example, successful entertainers control their appearances. They don't wear out their welcome.
+
+The best, most profitable thing to ride in marketing is a long-term trend.
+
 ## 22. The Law of Resources
+
+> "Without adequate funding an idea won't get off the ground"
