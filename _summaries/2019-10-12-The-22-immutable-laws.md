@@ -109,6 +109,8 @@ You can't take someone else's word.
 
 The essence of marketing is narrowing the focus. YOU become stronger when you reduce the scope of your operations. You can't stand for something if you chase everything.
 
+---
+
 ## 6. The Law of Exclusivity
 
 > "Two companies cannot own the same word in the prospect's mind"
@@ -169,8 +171,6 @@ Hone on a weakness the leading brand will quickly acknowledge (because it is the
 
 Marketing is often a battle for legitimacy. The first brand to capture a concept can cast competitor's as illegitimate.
 
----
-
 #### Notable campaign taglines:
 * "You've tasted the German beer that's most popular in America. Now taste the German beer that's most popular in Germany." (Becks vs Heineken)
 * "For the millions who should not take Aspirin" (Tylenol vs Aspirin)
@@ -190,6 +190,8 @@ Each new category has a reason for existence, and it's No. 1 leading brand.
 
 The way for a category leader to maintain it's dominance is to address each emerging category with a new brand name. For example, General Motors grew through acquisition and maintained a decentralized management structure under Alfred Sloan. Each brand (eg. Chevrolet) occupied a distinct rung in the market.
 
+---
+
 ## 11. The Law of Perspective
 
 > "Marketing effects take place over an extended period of time."
@@ -201,6 +203,8 @@ For example, coupons and discounting provide a short-term spike in sales but ove
 Investor Ray Dalio refers to these as the **first order** and **second order** consequences of decisions. The first order consequence of exercise is pain/discomfort (bad) and the second order consequence is improved health and reduced bodyweight (good).
 
 Research by beauty brand Dove suggests powerful 60% / 40% allocation between master brand building and product promotion is a good strategy for building brand dominance in a category. 
+
+---
 
 ## 12. The Law of Line Extension
 
@@ -220,6 +224,7 @@ Military strategist Carl von Clausewitz predicted this line of thinking in the 1
 
 "*We must select for our attack one point of the enemy's position and attack it with great superiority, leaving the rest of his army in uncertainty but keeping it occupied... Even though we are strong, we should still direct our main attack against one point only. In that way we shall gain more strength at this point. For to surround an enemy completely is possible only in rare cases and requires tremendous physical or moral superiority*"
 
+---
 
 ## 13. The Law of Sacrifice
 
@@ -236,6 +241,8 @@ A wider net might cash more fish... but it doesn't catch more customers. Marketi
 
 Remember, the target is not the market. Even though Pepsi's target was the teenager, the market was everybody. The 59-year-old guy who wants to think he's 29 will drink Pepsi.
 
+---
+
 ## 14. The Law of Attributes
 
 > "For every attribute, there is an opposite, effective attribute"
@@ -247,6 +254,8 @@ If you need to move on to a lesser attribute, because the most valued attribute 
 You can't predict the size of a new attribute's market share, so never laugh. For example, "small" was an attribute that emerged in the "computers" category. Eventually small came to dominate, but then it was arguably overtaken by "mobile" (ie. portable).
 
 Another example is McDonald's vs Burger King. McDonald's owns the junior market (ie. kids). Burger King could position itself for adults and thus hang the "kiddieland" moniker on McDonald's (refer to *The Law of Opposite*). Maybe Burger King's tagline would be "*Grow up to the taste of a flame grilled Whopper*."
+
+---
 
 ## 15. The Law of Candor
 
@@ -264,6 +273,8 @@ Keep in mind two practical directions:
 1. The negative must be generally perceived as a negative; and
 2. Shift swiftly to the positive
 
+---
+
 ## 16. The Law of Singularity
 
 > "In each situation, only one move will produce substantial results."
@@ -274,13 +285,35 @@ Successful generals study the battleground and look for that one bold stroke tha
 
 Most often there is only one place where your competitor is vulnerable; that place should be the focal point of all your marketing efforts.
 
-## 17. The Lwa of Unpredictability
+---
+
+## 17. The Law of Unpredictability
+
+> Unless you write your competitor's plans, you can't predict the future
+
+No one can accurately predict the weather three days in advance, how can they predict a market three years in advance?
+
+Good short-term planning is coming up with that angle or word that differentiates your product or company. Then you setup a coherent long-term marketing direction that builds a program to maximise that idea or angle. It's not a long-term plan, it's a long-term direction.
+
+Two common forecasting mistakes are estimating no change (the future will be like the present) or extrapolating too much (growth rates will continue).
+
+Research helps you measure the past, not the future. New ideas and concepts are almost impossible to measure. No one has a frame of reference. People don't know what they will do until they face an actual decision.
+
+One way to cope with an unpredictable world is to build enormous flexibility into your organization.
+
+There's a difference between *predicting* the future and *taking a chance* on the future.
 
 ## 18. The Law of Success
 
+---
+
 ## 19. The Law of Failure
 
+---
+
 ## 20. The Law of Hype
+
+---
 
 ## 21. The Law of Acceleration
 
