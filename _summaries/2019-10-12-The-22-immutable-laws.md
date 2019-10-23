@@ -364,3 +364,9 @@ The best, most profitable thing to ride in marketing is a long-term trend.
 ## 22. The Law of Resources
 
 > "Without adequate funding an idea won't get off the ground"
+
+Marketing is a game fought in the mind of the prospect. You need money to get into a mind. And you need money to stay in the mind once you get there.
+
+Ideas without money are worthless.
+
+In war, the military always errs on the high side. Why? You can't save your way to success.
