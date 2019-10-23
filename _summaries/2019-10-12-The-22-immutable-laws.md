@@ -267,6 +267,13 @@ Keep in mind two practical directions:
 
 ## 16. The Law of Singularity
 
+> "In each situation, only one move will produce substantial results."
+
+
+Trying harder is not the secret of marketing success.
+
+
+
 ## 17. The Lwa of Unpredictability
 
 ## 18. The Law of Success
