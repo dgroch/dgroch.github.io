@@ -303,7 +303,17 @@ One way to cope with an unpredictable world is to build enormous flexibility int
 
 There's a difference between *predicting* the future and *taking a chance* on the future.
 
+---
+
 ## 18. The Law of Success
+
+> Success often leads to arrogance, and arrogance to failure.
+
+When people become successful they become less objective. Often they substitute their own judgment for what the market wants.
+
+Brilliant marketers can think like a prospect thinks. They put themselves in the shows of their customers. They don't impose their own view of the world on the situation.
+
+Like kings, chief executives rarely get honest opinions from their ministers. One strategy to combat this tendency is to visit the operations unannounced, or go in disguise.
 
 ---
 
