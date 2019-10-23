@@ -321,11 +321,11 @@ Like kings, chief executives rarely get honest opinions from their ministers. On
 
 > Failure is to be expected and accepted
 
-Recognise failure early and cut your losses. Companies that excel (compared to their peers) embrace inconvenient truths, deal with them and embrace change.
+Recognize failure early and cut your losses. Companies that excel (compared to their peers) embrace inconvenient truths, deal with them and embrace change.
 
 "Ready, fire, aim"
 
-Risk aversion is rife, particularly in large organisations where people have much more to lose (status, comfortable salaries, etc). Why? Because nobody ever got fired for a bold move they didn't make.
+Risk aversion is rife, particularly in large organizations where people have much more to lose (status, comfortable salaries, etc). Why? Because nobody ever got fired for a bold move they didn't make.
 
 Personal agendas are also problematic. In some companies a great idea is rejected not because it isn't fundamentally sound but because no one in senior management will personally benefit from its success.
 
@@ -334,6 +334,16 @@ The solution? Champion people who take risks and embrace "a better way".
 ---
 
 ## 20. The Law of Hype
+
+> The situation is often the opposite of the way it appears in the press
+
+When things are going well, the company doesn't need the hype. When you need the hype, usually it means you're in trouble.
+
+Once the hype starts if often continues on-and-on, it has a life of its own for at least a while.
+
+Capturing the imagination of the public is not the same as revolutionizing a market.
+
+Real revolutions arrive unannounced in the middle of the night and kind of sneak up on you.
 
 ---
 
