@@ -7,11 +7,4 @@ featured_image: '/images/summaries/trillion-dollar-coach-1.jpg'
 
 ## Coming Soon
 
-Book on loan to AM and JL.
-AM has started reading it.
-
-Kellie is busy working on the position description. And I love her lots. 
-
-
-
-
+Book on loan to AM and JL. AM has started reading it.
