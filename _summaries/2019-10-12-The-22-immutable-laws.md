@@ -361,6 +361,8 @@ For example, successful entertainers control their appearances. They don't wear 
 
 The best, most profitable thing to ride in marketing is a long-term trend.
 
+---
+
 ## 22. The Law of Resources
 
 > "Without adequate funding an idea won't get off the ground"
