@@ -8,3 +8,4 @@ featured_image: '/images/summaries/platform-revolution-1.jpg'
 ## Coming Soon
 
 Book on loan to AM and JL
+Testing using WorkingCopy to edit markdown files.
