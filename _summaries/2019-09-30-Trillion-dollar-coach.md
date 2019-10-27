@@ -7,4 +7,8 @@ featured_image: '/images/summaries/trillion-dollar-coach-1.jpg'
 
 ## Coming Soon
 
-Book on loan to AM and JL
+Book on loan to AM and JL. 
+AM has started reading it.
+
+
+
