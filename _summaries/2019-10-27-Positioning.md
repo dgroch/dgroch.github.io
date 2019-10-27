@@ -1,5 +1,5 @@
 ---
-title: 'Positioning: How to be seen and heard in the overcrowded marketplace'
+title: 'Positioning'
 subtitle: 'by Al Ries and Jack Trout'
 date: 2019-10-27 09:00:00
 featured_image: '/images/summaries/positioning-al-ries-jack-trout.jpg'
