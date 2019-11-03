@@ -56,13 +56,15 @@ Strategy is king.
 
 One roadway to success is to look at what your competitors are doing and then subtract the poetry or creativity which has become a barrier to getting the message into the mind. Witha  purified and simplified message, you can then penetrate the prospect's mind.
 
-**Examples**
+### Examples
 
-"*First class is Michelob*" -- positioning Michelob as the premium-priced American made beer
+> "*First class is Michelob*"
 
-"*You've tasted the German beer that's the most popular in America. Now taste the German beer that's most popular in Germany.*" -- positioning Beck's as the only genuine imported German beer.
+This tagline positioned Michelob as the premium-priced American made beer
 
-**Coming Soon**
+> "*You've tasted the German beer that's the most popular in America. Now taste the German beer that's most popular in Germany.*"
+
+This tagline positioned Becks as the genuine imported German beer.
 
 ---
 
