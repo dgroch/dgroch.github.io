@@ -17,7 +17,15 @@ Positioning is not what you do to or even with a product. Positioning is what yo
 
 ## 1. What Positioning Is All About
 
-**Coming Soon**
+The basic approach to positioning is not to create something new and different, but to manipulate what's already up there in the mind, to retie the connections that already exist.
+
+The mind has a defence against the volume of today's communications. In general, the mind accepts only that which matches prior knowledge or experience.
+
+The average person will listen when being told something he/she knows nothing about -- this is why "*news*" is an effective advertising approach. But the average person can't tolerate being told he/she is wrong.
+
+In communication, as in architecture, less is more. You have to sharpen your message to cut into the mind.
+
+In positioning, you look for the solution inside the prospects mind> You concentrate the perceptions of the prospect. Not the reality of the product.
 
 ---
 
