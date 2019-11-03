@@ -44,6 +44,24 @@ In communication, more is less. The only way to cut through is with simplicity.
 
 ## 3. Getting into the Mind
 
+The easy way to get into a person's mind is to be first.
+
+The first thing you need to do to "*fix your message indelibly in the mind*" is not a message at all. It's a mind. An innocent mind that has not been burnished by someone elses brand. What matters most is receptivity.
+
+"*Every advertisement is a long-term investment in the image of a brand*" -- David Ogilvy
+
+To succeed in our overcommunicated society, a company must create a position in the prospect's mind that takes into account not only a company's own strengths and weaknesses, but those of its competitors as well.
+
+Strategy is king.
+
+One roadway to success is to look at what your competitors are doing and then subtract the poetry or creativity which has become a barrier to getting the message into the mind. Witha  purified and simplified message, you can then penetrate the prospect's mind.
+
+**Examples**
+
+"*First class is Michelob*" -- positioning Michelob as the premium-priced American made beer
+
+"*You've tasted the German beer that's the most popular in America. Now taste the German beer that's most popular in Germany.*" -- positioning Beck's as the only genuine imported German beer.
+
 **Coming Soon**
 
 ---
