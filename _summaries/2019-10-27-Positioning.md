@@ -31,7 +31,14 @@ In positioning, you look for the solution inside the prospects mind> You concent
 
 ## 2. The Assault on the Mind
 
-**Coming Soon**
+Our extravagant ues of communication to solve a host of business and social problems has so jammed our channels that only a tiny fraction of all messages actually get through.
+
+We have witnessed an explosion in:
+* Media
+* Products
+* Advertising
+
+In communication, more is less. The only way to cut through is with simplicity.
 
 ---
 
