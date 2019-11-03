@@ -56,21 +56,35 @@ Strategy is king.
 
 One roadway to success is to look at what your competitors are doing and then subtract the poetry or creativity which has become a barrier to getting the message into the mind. Witha  purified and simplified message, you can then penetrate the prospect's mind.
 
-### Examples
-
 > "*First class is Michelob*"
 
-This tagline positioned Michelob as the premium-priced American made beer
+(this tagline positioned Michelob as the premium-priced American made beer)
 
 > "*You've tasted the German beer that's the most popular in America. Now taste the German beer that's most popular in Germany.*"
 
-This tagline positioned Becks as the genuine imported German beer.
+(this tagline positioned Becks as the genuine imported German beer)
 
 ---
 
 ## 4. Those Little Ladders in Your Head
 
-**Coming Soon**
+Like the memory bank of a computer, the mind has a slot or positioning for each bit of information it has chosen to retain.
+
+The mind rejects information that "doesn't *compute*". People see what they expect to see, taste what you expect to taste, hear what you expect to hear and feel what you expect to feel.
+
+To cope with complexity, people have learned to simplify things. People have learned to rank products and brands in the mind.
+
+Imagine a series of ladders in the mind. On each step is a brand name. And each different ladder represents a different product category.
+
+A competitor that wants to increase its share of the business must either dislodge the brand above (usually impossible) or somehow relate its brand to the other company's position
+
+An advertiser who wants to introduce a new category must create a new ladder. This, too, is difficult, especially fi the new category is not positioned against the old one. That's why if you have a truly new product, it's often better to communicate what the product is not, rather than what it is. For example, the first car was described as a "horseless carriage"
+
+> "Avis is only No. 2 in rent-a-cars. So why go with us? We try harder."
+
+(positioned Avis against the market leader, Hertz)
+
+More than anything else, successful positioning requires consistency. You must keep at it year after year.
 
 ---
 
